@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCuWowfbv/Vzv58+2rbM5FcoD2dY3cYtWCq4KoKvNNQFVpEzh+InZbR9TWlxexAjK3/Ma0OMmxFIEXHERNaHAw==",
+  "success": true,
+  "projectFilePath": "E:\\patika\\practises\\Arraylist\\Arraylist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

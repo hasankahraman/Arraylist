@@ -1,0 +1,16 @@
+E:\patika\practises\Arraylist\bin\Debug\net5.0\Arraylist.exe
+E:\patika\practises\Arraylist\bin\Debug\net5.0\Arraylist.deps.json
+E:\patika\practises\Arraylist\bin\Debug\net5.0\Arraylist.runtimeconfig.json
+E:\patika\practises\Arraylist\bin\Debug\net5.0\Arraylist.runtimeconfig.dev.json
+E:\patika\practises\Arraylist\bin\Debug\net5.0\Arraylist.dll
+E:\patika\practises\Arraylist\bin\Debug\net5.0\ref\Arraylist.dll
+E:\patika\practises\Arraylist\bin\Debug\net5.0\Arraylist.pdb
+E:\patika\practises\Arraylist\obj\Debug\net5.0\Arraylist.csproj.AssemblyReference.cache
+E:\patika\practises\Arraylist\obj\Debug\net5.0\Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+E:\patika\practises\Arraylist\obj\Debug\net5.0\Arraylist.AssemblyInfoInputs.cache
+E:\patika\practises\Arraylist\obj\Debug\net5.0\Arraylist.AssemblyInfo.cs
+E:\patika\practises\Arraylist\obj\Debug\net5.0\Arraylist.csproj.CoreCompileInputs.cache
+E:\patika\practises\Arraylist\obj\Debug\net5.0\Arraylist.dll
+E:\patika\practises\Arraylist\obj\Debug\net5.0\ref\Arraylist.dll
+E:\patika\practises\Arraylist\obj\Debug\net5.0\Arraylist.pdb
+E:\patika\practises\Arraylist\obj\Debug\net5.0\Arraylist.genruntimeconfig.cache
